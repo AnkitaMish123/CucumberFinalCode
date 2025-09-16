@@ -72,6 +72,7 @@ public class LoginPage extends UIActions {
     public void verifyErrorMsg()
     {
        ElementExist(txt_ErrorMsg,"Error message validated successfully");
+        System.out.println("Done!!");
     }
 
 
