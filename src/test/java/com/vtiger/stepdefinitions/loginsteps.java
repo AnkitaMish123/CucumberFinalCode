@@ -65,6 +65,7 @@ public class loginsteps extends basesteps {
     @Then("user should be login page")
     public void user_should_be_login_page() {
        lp.verifyLogin();
+        System.out.println("user login page");//commited by laxmi
 
     }
     @Then("user can see the error message")
