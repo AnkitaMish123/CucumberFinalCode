@@ -1,0 +1,12 @@
+Feature: Account functionality
+
+  Background:
+    Given user should be on login page
+    When user enters valid credentials and click on login button
+    Then user should be navigated to home page
+
+  @CreateLead
+  Scenario: Create_Account_with_Mandatory_Fields_TC03
+    When user click on new account
+    And fill all mandatory fields and click on save
+    Then account should be created successfully
