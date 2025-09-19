@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="332d01d6-7a8c-425d-834e-5c430674f1b5" name="Changes" comment="" />
+    <list default="true" id="332d01d6-7a8c-425d-834e-5c430674f1b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/account.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/account.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Laxmi" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />

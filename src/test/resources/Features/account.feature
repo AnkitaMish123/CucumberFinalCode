@@ -9,4 +9,4 @@ Feature: Account functionality
   Scenario: Create_Account_with_Mandatory_Fields_TC03
     When user click on new account
     And fill all mandatory fields and click on save
-    Then account should be created successfully
+    Then account should be created along with lead
