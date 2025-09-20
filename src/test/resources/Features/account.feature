@@ -5,7 +5,7 @@ Feature: Account functionality
     When user enters valid credentials and click on login button
     Then user should be navigated to home page
 
-
+@account
   Scenario: Create_Account_with_Mandatory_Fields_TC03
     When user click on new account
     And fill all mandatory fields and click on save
