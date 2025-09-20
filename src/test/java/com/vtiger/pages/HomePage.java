@@ -48,5 +48,8 @@ public class HomePage extends UIActions {
     {
 
         ClickElement(lnk_NewLead,"New Lead link clicked");
+        System.out.println("Welcome to java Framework"); // Added by Darshan
     }
+
+
 }
